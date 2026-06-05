@@ -1,0 +1,74 @@
+[
+{
+"id": 1,
+"question": "What are the early signs of septic shock in an adult ICU patient?",
+"gold_answer": [
+"Hypotension",
+"Tachycardia",
+"Fever or hypothermia",
+"Tachypnea",
+"Altered mental status",
+"Elevated lactate levels",
+"Reduced urine output"
+],
+"difficulty": "Intermediate",
+"specialty": "Critical Care",
+"evaluation_focus": "Clinical Accuracy"
+},
+{
+"id": 2,
+"question": "What immediate interventions should be initiated for suspected septic shock?",
+"gold_answer": [
+"Airway assessment",
+"Oxygen administration",
+"Blood cultures",
+"Broad-spectrum antibiotics",
+"Fluid resuscitation",
+"Continuous monitoring"
+],
+"difficulty": "Advanced",
+"specialty": "Critical Care",
+"evaluation_focus": "Patient Safety"
+},
+{
+"id": 3,
+"question": "Why is lactate monitoring important in septic shock?",
+"gold_answer": [
+"Indicates tissue hypoperfusion",
+"Assesses severity of illness",
+"Tracks response to treatment"
+],
+"difficulty": "Intermediate",
+"specialty": "Critical Care",
+"evaluation_focus": "Clinical Reasoning"
+},
+{
+"id": 4,
+"question": "What are common complications of untreated septic shock?",
+"gold_answer": [
+"Multi-organ failure",
+"Acute kidney injury",
+"Respiratory failure",
+"Disseminated intravascular coagulation",
+"Death"
+],
+"difficulty": "Advanced",
+"specialty": "Critical Care",
+"evaluation_focus": "Completeness"
+},
+{
+"id": 5,
+"question": "What monitoring parameters are essential during septic shock management?",
+"gold_answer": [
+"Blood pressure",
+"Heart rate",
+"Respiratory rate",
+"Urine output",
+"Oxygen saturation",
+"Lactate levels"
+],
+"difficulty": "Intermediate",
+"specialty": "Critical Care",
+"evaluation_focus": "Clinical Accuracy"
+}
+]
