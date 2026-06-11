@@ -50,7 +50,3 @@ AI responses are evaluated for:
 - Rubric design
 - AI safety analysis
 - Clinical documentation review
-
-# Disclaimer
-
-This project is for educational and AI evaluation purposes only. It does not provide medical advice, diagnosis, or treatment recommendations.
